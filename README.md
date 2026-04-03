@@ -155,7 +155,3 @@ The script supports Turkish (default) and English. All user-facing strings are m
 1. CLI argument: `--lang en`
 2. Environment variable: `NGINX_MGR_LANG=en`
 3. Default: Turkish
-
-## License
-
-MIT
